@@ -1,0 +1,16 @@
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01\bin\GF.Mvc01.dll
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01\bin\GF.Mvc01.pdb
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01\bin\EntityFramework.dll
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01\bin\Microsoft.Web.Infrastructure.dll
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01\bin\Microsoft.Web.Optimization.dll
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01\bin\System.Web.Helpers.dll
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01\bin\System.Web.Mvc.dll
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01\bin\System.Web.Providers.dll
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01\bin\System.Web.Razor.dll
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01\bin\System.Web.WebPages.Deployment.dll
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01\bin\System.Web.WebPages.dll
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01\bin\System.Web.WebPages.Razor.dll
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01\bin\EntityFramework.xml
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01\obj\Debug\ResolveAssemblyReference.cache
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01\obj\Debug\GF.Mvc01.dll
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01\obj\Debug\GF.Mvc01.pdb
