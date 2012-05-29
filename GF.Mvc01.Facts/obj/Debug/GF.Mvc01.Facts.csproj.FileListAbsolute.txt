@@ -7,3 +7,8 @@ c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01.Facts\bin\Debug\xunit.xml
 c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01.Facts\obj\Debug\ResolveAssemblyReference.cache
 c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01.Facts\obj\Debug\GF.Mvc01.Facts.dll
 c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01.Facts\obj\Debug\GF.Mvc01.Facts.pdb
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01.Facts\bin\Debug\Moq.dll
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01.Facts\bin\Debug\Moq.pdb
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01.Facts\bin\Debug\Moq.xml
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01.Facts\bin\Debug\EntityFramework.dll
+c:\MvcWorkshop2\GF.Mvc01\GF.Mvc01.Facts\bin\Debug\EntityFramework.xml
